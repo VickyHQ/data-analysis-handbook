@@ -11,5 +11,6 @@ This resource is built by and for the data community. If you have experience wit
 | Name        | Contribution               |
 |-------------|----------------------------|
 | Mia Han     | Primary Author             |
+| Vicky Huang | Editing and Quality Review            |
 | Jia Yue He  | Editing and Quality Review |
 | Daniel Biel | Template Setup             |
